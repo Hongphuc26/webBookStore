@@ -1,0 +1,7 @@
+backend/data/*.json
+backend/storage/*.pdf
+.env
+node_modules/
+.DS_Store
+backend/storage/covers/*
+!backend/storage/covers/.gitkeep
